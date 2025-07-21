@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Edited Title!: Welcome to my pages!
 ---
